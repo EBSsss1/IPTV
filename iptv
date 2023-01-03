@@ -94,7 +94,7 @@ https://vips-livecdn.fptplay.net/hda3/htvcdulich_4000.stream/chunklist.m3u8
 ____________________________SCTV_________________________________________
 
 #EXTINF:-1 tvg-id="SCTV1hd" group-title="SCTV" tvg-logo="https://i.ibb.co/fnTNmGf/SCTV1.webp", SCTV1
-https://vtsstr1.tv24.vn/livesctv/smil:SCTV_HD_Hai_KCN.smil/chunklist_w757196248_b2692000_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjcyNzU3OTI5Jndvd3phdG9rZW5lbmR0aW1lPTE2NzI3NjU0Mjkmd293emF0b2tlbmN1c3RvbVBhcmFtZXRlcj1teXJhbmRvbWN1c3RvbXBhcmFtZXRlciZ3b3d6YXRva2VuaGFzaD1BdEhROE5lNUlRcE1CWXkzZ2I0ZGdpeExFYkxXYjJCWUV3UXBadmNOYnFZPQ==.m3u8
+https://vtsstr1.tv24.vn/livesctv/smil:SCTV_HD_Hai_KCN.smil/chunklist_w711051358_b2692000_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjcyNzY1MzIxJndvd3phdG9rZW5lbmR0aW1lPTE2NzI3NzI4MjEmd293emF0b2tlbmN1c3RvbVBhcmFtZXRlcj1teXJhbmRvbWN1c3RvbXBhcmFtZXRlciZ3b3d6YXRva2VuaGFzaD1iTGJMN0VseE9HYVR4UVFaWjNCM1dnMTBaUW1SZWNGNzBkZkRwWGxzQ2w0PQ==.m3u8
 
 #EXTINF:0 tvg-id="sctv2hd"group-title="SCTV" tvg-logo="https://i.ibb.co/2qPDn0t/SCTV2.webp" ,SCTV2
 https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
