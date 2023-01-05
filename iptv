@@ -231,7 +231,11 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/index.mpd?maxrate=3000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JJ0o9dnSnTRwwZppCLMvkA", "kid":"dTEffY1dM921Kx9s7WRqGg" } ], "type":"temporary" }
 https://live-drm.fptplay.net/Mjg2NDQ4MDN8azFzcG9ydDFfMjAwMC5zdHJlYW18dm5wdHwxNjcyOTE2OTExfDE0LjE2Ni4yMDIuMTgxfGZlMzJiYTZlMjk4NjA2NmQ4NmU5MGRlNTYzNWFjZTdk/webplus/k1sport1_2000.stream/manifest.mpd
-https://api.fptplay.net/api/v7.1_w/user_stream_ping/ping/kpm?st=9D7tdkJpyeChsMbtlxjW6A&e=1672920532&device=Chrome(version%253A108.0.0.0)&drm=1
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD (FPTPl
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XaUqecAm5BpOPcxU9W2ntA", "kid":"1Xmxbd5/OGeAtMi0pXIWAQ" } ], "type":"temporary" }
+https://live-drm.fptplay.net/Mjg2NDQ4MDN8azFzcG9ydDFfMjAwMC5zdHJlYW18dm5wdHwxNjcyOTE2OTExfDE0LjE2Ni4yMDIuMTgxfGZlMzJiYTZlMjk4NjA2NmQ4NmU5MGRlNTYzNWFjZTdk/webplus/k1sport1_2000.stream/manifest.mpd
 #______________________VTV CAB___________________
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTV CAB" tvg-logo="https://i.ibb.co/fQFFZTS/vtvcab1.webp",VTVcab1
