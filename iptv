@@ -227,6 +227,11 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/index.mpd?maxrate=3000
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jhwqqk/xL0jngyEDMeCguQ", "kid":"jcHanGFdRuGVteyGkVB4hw" } ], "type":"temporary" }
 https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/index.mpd?maxrate=3000000
 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD (FPTPlay)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JJ0o9dnSnTRwwZppCLMvkA", "kid":"dTEffY1dM921Kx9s7WRqGg" } ], "type":"temporary" }
+https://vagroup.pw/fptplay/sp1/manifest.mpd
+
 #______________________VTV CAB___________________
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTV CAB" tvg-logo="https://i.ibb.co/fQFFZTS/vtvcab1.webp",VTVcab1
