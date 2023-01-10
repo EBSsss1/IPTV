@@ -166,7 +166,7 @@ https://vtsstr6.tv24.vn/livesctv/smil:SCTVTH_HD_KCN.smil/chunklist_w1376462808_b
 #------K+-------
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD MyK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dCs1ytrN/uzRvfl0Yaz4zA", "kid":"4QqVzpZISEGDvsXhooRtPw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dCs1ytrN\/uzRvfl0Yaz4zA","kid":"4QqVzpZISEGDvsXhooRtPw"}],"type":"temporary"}
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD MyK
