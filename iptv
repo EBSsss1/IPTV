@@ -228,23 +228,28 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/index.mpd?maxrate=3000
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD (FPTPlay)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JJ0o9dnSnTRwwZppCLMvkA", "kid":"dTEffY1dM921Kx9s7WRqGg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XaUqecAm5BpOPcxU9W2ntA", "kid":"1Xmxbd5/OGeAtMi0pXIWAQ" } ], "type":"temporary" }
 https://vagroup.pw/fptplay/sp1/manifest.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine FHD (FPTPlay)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MApx3VsN4UCP+mAmQJi4yQ", "kid":"doaKhbLbOtm+ZTYxLYqagw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ptRhZyDUzch6nyysCp4umQ", "kid":"TJKVfL8QNvKIbjGAKWWqJg" } ], "type":"temporary" }
 https://vagroup.pw/fptplay/cine/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 FHD (FPTPlay)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KeOO//yHM18H1OR6e1fYhw", "kid":"D+mPOI/9NIG2TEJK6N2TQA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VrpY4xpQUsA0LUXy6YHHjQ", "kid":"OrVrSdqvOn6baGtrLPv75Q" } ], "type":"temporary" 
 https://vagroup.pw/fptplay/sp2/manifest.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (FPTPlay)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aKjJKEdz74X3Ru+8eHEMqg", "kid":"ePOnPvZXM56xbgYQ/Rf2LA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ska56wGhgkTbg9muMuP1PQ", "kid":"xtTz/8X9OuSy/xA2dCd35g" } ], "type":"temporary" }
 https://vagroup.pw/fptplay/life/manifest.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://logo.vagroup.pw/188.png", K+ Kids FHD (FPTPlay)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WlMAfyH4NpIDPvCXo3n04A", "kid":"DH1XiH/XN2y8db0rEkF0VQ" } ], "type":"temporary" }
+https://vagroup.pw/fptplay/kids/manifest.mpd
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 xui-id="1" tvg-id="kcinehd" tvg-name="K+Cine HD" tvg-logo="http://xui.tivifree.ml:80/images/e78f265ca39267140bd1f597a7e8ba2c.jpg" group-title="KPlus",K+Cine HD
