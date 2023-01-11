@@ -178,7 +178,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 #EXTINF:-1 tvg-id="Kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD MyK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"prucNUNxGm3hdQAGHMqw7Q", "kid":"Tr4bAL56TFGHco++TEQ1cg" },{ "kty":"oct", "k":"1M2C6AlzSj5W7mW7R8Rilg", "kid":"lgIbAL56TFGHco++TEQ1cg" },{ "kty":"oct", "k":"pw9zZEKrY3nN9LzLLf2FbQ", "kid":"owZfMb56TFGHco++TEQ1cg" },{ "kty":"oct", "k":"4lMwq9eICXjvNslub3uAIg", "kid":"jxNfSQ16TFGHco++TEQ1cg" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd mpd
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 #EXTINF:-1 tvg-id="Klifehd" group-title="K+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD MyK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -188,7 +188,7 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTINF:-1 tvg-id="Kkidhd" group-title="K+" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+KID HD MyK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oQ3I1Lu3pMTZFaWHz580eQ", "kid":"QcDt13AZRV+0iVwr/8K0LQ" },{ "kty":"oct", "k":"xe73YyKpIc/Itrgpgwk3uQ", "kid":"iQTt13AZRV+0iVwr/8K0LQ" },{ "kty":"oct", "k":"eySVcxZnUFB+yHeT+d0Dug", "kid":"lggxCHAZRV+0iVwr/8K0LQ" },{ "kty":"oct", "k":"5J0KDE4DVgY1JaeYXyUSlg", "kid":"ghUxIL8ZRV+0iVwr/8K0LQ" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd mpd
+https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 MyTV 
