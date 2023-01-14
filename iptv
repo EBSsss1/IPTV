@@ -263,7 +263,7 @@ http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-rw0VOWDNqQG4kavALwy6ANU/m3u8
 #EXTINF:-1 xui-id="5" tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="http://xui.tivifree.ml:80/images/a3bdf4c86c97b0c9d1f80e25d71e9fad.jpg" group-title="KPlus",K+ Kids
 http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r5WwxxPbcOAQK7cz_IlVJig/m3u8
 
-#______________________VTV CAB___________________
+#______________________VTV CAB__________________
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTV CAB" tvg-logo="https://i.ibb.co/fQFFZTS/vtvcab1.webp",VTVcab1
 https://856175157.r.vtvcdn.com/ondrm/GIAITRI_TV_HD/m20_index.m3u8
