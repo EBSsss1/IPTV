@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="http://trada.info/epg.xml"
 
 #-----------------VTV------------
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-name="VTV1 FHD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/1__.png", catchup="append" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 FHD
