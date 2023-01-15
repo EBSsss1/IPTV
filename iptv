@@ -239,8 +239,7 @@ https://vagroup.pw/fptplay/cine/manifest.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport2 FHD (FPTPlay)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aqypIsSv6ssix+FZEBj8OQ", "kid":"CpN88wglM92VoS0t7ki+aA" } ], "type":"temporary" }
-https://live-drm.fptplay.net/OTIwNjMxfGsxc3BvcnQyZnBsXzcyMHAuc3RyZWFtfHZucHR8MTY3Mzc3NDk3NnwxNC4xNzguMzguMTg1fGRkNzMzZjQ3NDE4NmUwYTYyYzRiMjU3ODgyZjM1ODkx/webplus/k1sport2fpl_720p.stream/manifest.mpd
-
+https://vagroup.pw/fptplay/sp2/manifest.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+ Life (FPTPlay)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ska56wGhgkTbg9muMuP1PQ", "kid":"xtTz/8X9OuSy/xA2dCd35g" } ], "type":"temporary" }
