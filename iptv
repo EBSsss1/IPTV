@@ -277,7 +277,7 @@ http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r9FFxHYlepbWy7K0C050yos/m3u8
 #EXTINF:-1 xui-id="2" tvg-id="klifehd" tvg-name="K+Life HD" tvg-logo="http://xui.tivifree.ml:80/images/69aa85408e964ef6fb0626b3d8e697a2.jpg" group-title="KPlus",K+Life HD
 http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r4iwK3IwSaraQwtjSTvKzOc/m3u8
 #EXTINF:-1 xui-id="3" tvg-id="ksport1hd" tvg-name="K+Sport1 HD" tvg-logo="http://xui.tivifree.ml:80/images/39797534cb5685a5e1c78243c95d70f5.jpg" group-title="KPlus",K+Sport1 HD
-http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r_ps9LrSIg_LN4z7ebnzwkM/m3u8
+http://27.67.64.233:18080//149_4.m3u8?AdaptiveType=HLS&SessionID=175e86dc-d278-4dde-97bd-de4a33a6036d&MinBw=0&MaxBw=20000000
 #EXTINF:-1 xui-id="4" tvg-id="ksport2hd" tvg-name="K+Sport2 HD" tvg-logo="http://xui.tivifree.ml:80/images/3a559afe96d03350677d50aa9c55ca15.jpg" group-title="KPlus",K+Sport2 HD
 http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-rw0VOWDNqQG4kavALwy6ANU/m3u8
 #EXTINF:-1 xui-id="5" tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="http://xui.tivifree.ml:80/images/a3bdf4c86c97b0c9d1f80e25d71e9fad.jpg" group-title="KPlus",K+ Kids
