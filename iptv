@@ -269,7 +269,7 @@ https://ebstv.xyz/life/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WlMAfyH4NpIDPvCXo3n04A", "kid":"DH1XiH/XN2y8db0rEkF0VQ" } ], "type":"temporary" }
-https://ebstv.xyz/kids/manifest.html
+https://ebstv.xyz/kids/manifest.mpd
 
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
