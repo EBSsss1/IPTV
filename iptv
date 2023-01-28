@@ -250,7 +250,7 @@ http://vietanhtv.pw/fptplay/sp1/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jwt5Mle9591yTYRbFKhLyg", "kid":"zBW5DIGyNgmWFKH0DqIINg" } ], "type":"temporary" }
-http://vietanhtv.pw/fptplay/cine/manifest.mpd
+https://ebstv.xyz/cine/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport2 FHD (FPTPlay)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
