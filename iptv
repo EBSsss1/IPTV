@@ -205,13 +205,13 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 #EXTINF:-1 tvg-id="Klifehd" group-title="K+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD MyK
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"H+9EefaBAsYzYGlF8//Cxg", "kid":"m27zX1QJT7uoQ4wmdehJbQ" },{ "kty":"oct", "k":"wotGryjps4FrAZW8WhdedQ", "kid":"47LzX1QJT7uoQ4wmdehJbQ" },{ "kty":"oct", "k":"jCLU6IM/x7G6y90MmF1VAg", "kid":"8LY3kFQJT7uoQ4wmdehJbQ" },{ "kty":"oct", "k":"0rjoxBnu44jsGslmP8O9aQ", "kid":"3MM3qKMJT7uoQ4wmdehJbQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fc37Z72bLVjG150SPeDVEA", "kid":"xdH+0kB5Rp2/jecLcqIhag" },{ "kty":"oct", "k":"AjSBkVlBG5v6DVJlX+zpRA", "kid":"DRX+0kB5Rp2/jecLcqIhag" },{ "kty":"oct", "k":"Oz1vXHozqv934nIwGgItdg", "kid":"GhlCA0B5Rp2/jecLcqIhag" },{ "kty":"oct", "k":"WLBin/np5i2O3QhSpo8oeA", "kid":"BiZCG495Rp2/jecLcqIhag" } ], "type":"temporary" }
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="Kkidhd" group-title="K+" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+KID HD MyK
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"36PLv8UXf9/cVfAsjnltJA", "kid":"5xlj/pNsTOCTxWxYKWsx6w" },{ "kty":"oct", "k":"7fz9h3RZue3YZ8blOzPxTg", "kid":"L11j/pNsTOCTxWxYKWsx6w" },{ "kty":"oct", "k":"wrwAyM/Y1XoHADqMUHDQog", "kid":"PGGnL5NsTOCTxWxYKWsx6w" },{ "kty":"oct", "k":"N1+dNPdfy52r8zv0kGXgAQ", "kid":"KG6nR+JsTOCTxWxYKWsx6w" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x8A/fZ2+aYZYQKyo0Oib7w", "kid":"IW8gzTP9SMGeQqQKihAEnw" }, { "kty":"oct", "k":"4onASeu8egEpia9ztmjH0w", "kid":"abMgzTP9SMGeQqQKihAEnw" },{ "kty":"oct", "k":"ItEOmLvsyRu9f2r21m8HUg", "kid":"drdk/jP9SMGeQqQKihAEnw" },{ "kty":"oct", "k":"Bl3hKtlp7wgZ5zROFlVP5g", "kid":"YsRkFoL9SMGeQqQKihAEnw" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 
