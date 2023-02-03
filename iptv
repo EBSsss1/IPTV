@@ -186,7 +186,7 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/index.mpd?maxrate=3000
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD MyK
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HOW1RaCEFyqVbP6anu27Gw", "kid":"1vpaoObBS3yDCU67NlMUow" },{ "kty":"oct", "k":"n/GALqFCYQOdmoMyAsFxcA", "kid":"Hj5aoObBS3yDCU67NlMUow" },{ "kty":"oct", "k":"GaJAH7ce+2G+AHPd6Tchpw", "kid":"K0Ke0ebBS3yDCU67NlMUow" },{ "kty":"oct", "k":"Us0c6x1HM5EBoILfeKUvAQ", "kid":"F0+e6TXBS3yDCU67NlMUow" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ylG0d2p9YsT0oSH/3Ez4aA", "kid":"ysylhMJZTRmIug4WAxw51A" },{ "kty":"oct", "k":"+kcEIp7j2awlrDR3yp7vsg", "kid":"EhClhMJZTRmIug4WAxw51A" },{ "kty":"oct", "k":"yH7C8ERdbOJ/VdzVcc2aeQ", "kid":"HxTptcJZTRmIug4WAxw51A" },{ "kty":"oct", "k":"4Ukzj2g+y9+T76YMMErWBA", "kid":"CyHpzRFZTRmIug4WAxw51A" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
