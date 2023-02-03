@@ -193,13 +193,13 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD MyK
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N9Sl/THUJsmznOrc+/V2Fw", "kid":"K8Meg3/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"51lqB+q93DwkCRi69M1YgA", "kid":"cwceg3/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"u9UEV/Sc5r62dAGxnooljw", "kid":"gAtitH/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"918gOCJDFg7FPbDuqVGhPQ", "kid":"bBhizM7GTTicYuE9iUjUrQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K7eNjcxlLLDF7sbB/7c11g", "kid":"URKvN0kmTCaXrO7xMAR9fw" },{ "kty":"oct", "k":"zeMyA0EwXmjWZx4JWbxVtw", "kid":"mVavN0kmTCaXrO7xMAR9fw" },{ "kty":"oct", "k":"vA1v+SD/hiT/QDeXd6HG0w", "kid":"plrzaEkmTCaXrO7xMAR9fw" },{ "kty":"oct", "k":"ulKwA+yVLfRG8dv76j4N/g", "kid":"kmfzgJgmTCaXrO7xMAR9fw" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 
 #EXTINF:-1 tvg-id="Kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD MyK
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoFEgBN6e3I+PrYmPfNp4g", "kid":"q6zp42P1TJaeJJnE8Jol9A" },{"kty":"oct","k":"GzNLfAuVCmnmc2bWnrfXUg","kid":"7AEtLLL1TJaeJJnE8Jol9A"} ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CpDtxtCA/vNeTXrkyCMraw", "kid":"l8a+kbREQReoeGyWXvkDtg" },{ "kty":"oct", "k":"JhKY2s0TJsxkXNBWWSCU5Q", "kid":"3wq+kbREQReoeGyWXvkDtg" },{ "kty":"oct", "k":"M4n1ERzBbrxZXzA8T/kONg", "kid":"7A4CwrREQReoeGyWXvkDtg" },{ "kty":"oct", "k":"ypuGu7vfyLC7Lx5GXMGNcQ", "kid":"2BsC2gNEQReoeGyWXvkDtg" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 #EXTINF:-1 tvg-id="Klifehd" group-title="K+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD MyK
