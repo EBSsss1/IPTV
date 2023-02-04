@@ -271,6 +271,13 @@ http://vietanhtv.pw/fptplay/life/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MRr+P9nbE2pB18cF7TA/pQ", "kid":"2td5+/VDOIWgkU5gOZx23w" } ], "type":"temporary" }
 http://vietanhtv.pw/fptplay/kids/manifest.mpd
 
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+Sport1 HD VTVCab
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GhHBDhBrM/2S0uu4/xz7Iw", "kid":"C4BGqHbWQDu+Ia0mIzTfFQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+https://72918341.r.vtvcdn.com/manifest/k-plus-pm/master.mpd
+
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 xui-id="1" tvg-id="kcinehd" tvg-name="K+Cine HD" tvg-logo="http://xui.tivifree.ml:80/images/e78f265ca39267140bd1f597a7e8ba2c.jpg" group-title="KPlus",K+Cine HD
 http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r9FFxHYlepbWy7K0C050yos/m3u8
