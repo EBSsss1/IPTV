@@ -281,7 +281,7 @@ https://72918341.r.vtvcdn.com/manifest/k-plus-pm/master.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+Sport2 HD VTVCab
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8+dqqYfOn5YGEEkzxZXPsA", "kid":"4lcTXVomTbKx2zBssMqxpA" },{ "kty":"oct", "k":"LCaCA5W5CKOJ7fHo3x8iuA", "kid":"UMkZCG+OTdi810RJy/b6ww" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ ,{ "kty":"oct", "k":"YiZ6yAGQ5EdIuZNgM4n9tg", "kid":"2Iex8K2vRlKG3B4mol5sfQ" }{ "kty":"oct", "k":"8+dqqYfOn5YGEEkzxZXPsA", "kid":"4lcTXVomTbKx2zBssMqxpA" },{ "kty":"oct", "k":"LCaCA5W5CKOJ7fHo3x8iuA", "kid":"UMkZCG+OTdi810RJy/b6ww" } ], "type":"temporary" }
 https://72918341.r.vtvcdn.com/manifest/k-plus-pc/master.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+Life HD VTVCab
