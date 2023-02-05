@@ -274,7 +274,7 @@ http://vietanhtv.pw/fptplay/kids/manifest.mpd
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+Sport1 HD VTVCab
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hACzj/VTkKqfPsk2KYawDQ", "kid":"VXX+tuZbSRyTJ4wt/dy7zA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UkKlWgx+XTKwiJHcPTWo6Q", "kid":"gHvYOFkeS1uiog8+YTrnuw" }, ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://72918341.r.vtvcdn.com/manifest/k-plus-pm/master.mpd
 
