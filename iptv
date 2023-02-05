@@ -274,14 +274,14 @@ http://vietanhtv.pw/fptplay/kids/manifest.mpd
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+Sport1 HD VTVCab
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GhHBDhBrM/2S0uu4/xz7Iw", "kid":"C4BGqHbWQDu+Ia0mIzTfFQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hACzj/VTkKqfPsk2KYawDQ", "kid":"VXX+tuZbSRyTJ4wt/dy7zA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://72918341.r.vtvcdn.com/manifest/k-plus-pm/master.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+Sport2 HD VTVCab
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wcKyzeX1joy5VTqhU0OqvQ", "kid":"+bAe3H9NRs250JBSk9ysEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8+dqqYfOn5YGEEkzxZXPsA", "kid":"4lcTXVomTbKx2zBssMqxpA" } ], "type":"temporary" }
 https://72918341.r.vtvcdn.com/manifest/k-plus-pc/master.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+Life HD VTVCab
@@ -293,12 +293,12 @@ https://72918341.r.vtvcdn.com/manifest/k-plus-ns/master.mpd
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+Cine HD VTVCab
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bqbRirxuB6n7OUdVFFiSMg", "kid":"5EPAX+BZQa2cHYeRckaBxw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FpmG47AkJJKeS+T8SnBeMg", "kid":"NEfSFVWLRXm+4UE6lt7RpA" } ], "type":"temporary" }
 https://72918341.r.vtvcdn.com/manifest/k-plus-1/master.mpd
 
 
 
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5{ "keys":[ { "kty":"oct", "k":"FpmG47AkJJKeS+T8SnBeMg", "kid":"NEfSFVWLRXm+4UE6lt7RpA" } ], "type":"temporary" }r2"
 #EXTINF:-1 xui-id="1" tvg-id="kcinehd" tvg-name="K+Cine HD" tvg-logo="http://xui.tivifree.ml:80/images/e78f265ca39267140bd1f597a7e8ba2c.jpg" group-title="KPlus",K+Cine HD
 http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r9FFxHYlepbWy7K0C050yos/m3u8
 #EXTINF:-1 xui-id="2" tvg-id="klifehd" tvg-name="K+Life HD" tvg-logo="http://xui.tivifree.ml:80/images/69aa85408e964ef6fb0626b3d8e697a2.jpg" group-title="KPlus",K+Life HD
