@@ -293,7 +293,7 @@ https://72918341.r.vtvcdn.com/manifest/k-plus-ns/master.mpd
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+Cine HD VTVCab
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"omkQyq74M4IPY+lWNdMTWA", "kid":"ficvCT6GQIW5nAZpI42a0A" },{ "kty":"oct", "k":"FpmG47AkJJKeS+T8SnBeMg", "kid":"NEfSFVWLRXm+4UE6lt7RpA" },{ "kty":"oct", "k":"prCofa46H/vRzYsy4hiIcg", "kid":"lB7Nqq2pSt6TsvXspcHzYA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_url=https://license.sigmadrm.com
 https://72918341.r.vtvcdn.com/manifest/k-plus-1/master.mpd
 
 
