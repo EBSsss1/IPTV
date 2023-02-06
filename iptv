@@ -292,7 +292,7 @@ https://72918341.r.vtvcdn.com/manifest/k-plus-ns/master.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+Cine HD VTVCab
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=getwvkeys.cc
+#KODIPROP:inputstream.adaptive.license_type=sigmadrm.com
 #KODIPROP:inputstream.adaptive.license_key=license.sigmadrm.com
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70
 dt-custom-data: eyJ1c2VySWQiOiI5MTQ0NzE1Iiwic2Vzc2lvbklkIjoiWkcybjZkMXord3VwL0NmSDZKWjhVSHA2OXErZWUrNE05dmtneUx2SExWQjhlUENpbWkvb0d1TzlOWmkwd0RoQ2ZpSzB1TVY0N3cvNnEzYkk2NVY4QXloNzZMaVBPN1plcHZNazArT0hJQnQwSnFEcDBpRzlaNjc3SUlHdHpEMVRRSG1tb3NsOXVsNzNyeVRGdkp4NkFpOHQ5S25JTCtFTi92c25rK0RHTDFSK2JlaTRpanE4U29iN1k4djduSG9DSzNqMXI5MWwrMUcvdlh2VDZKRmxCeWw1NnFqUGUvY0o3ZUk9IiwibWVyY2hhbnQiOiJmcHQifQ==
