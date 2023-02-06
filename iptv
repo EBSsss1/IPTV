@@ -292,7 +292,7 @@ https://72918341.r.vtvcdn.com/manifest/k-plus-ns/master.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+Cine HD VTVCab
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.sigmadrm
+#KODIPROP:inputstream.adaptive.license_type=sigmadrm.com
 #KODIPROP:inputstream.adaptive.license_url=https://license.sigmadrm.com
 https://72918341.r.vtvcdn.com/manifest/k-plus-1/master.mpd
 
