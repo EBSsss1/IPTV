@@ -115,7 +115,7 @@ http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r9FFxHYlepbWy7K0C050yos/m3u8
 #EXTINF:-1 xui-id="2" tvg-id="klifehd" tvg-name="K+Life HD" tvg-logo="http://xui.tivifree.ml:80/images/69aa85408e964ef6fb0626b3d8e697a2.jpg" group-title="KPlus",K+Life HD
 http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r4iwK3IwSaraQwtjSTvKzOc/m3u8
 #EXTINF:-1 xui-id="3" tvg-id="ksport1hd" tvg-name="K+Sport1 HD" tvg-logo="http://xui.tivifree.ml:80/images/39797534cb5685a5e1c78243c95d70f5.jpg" group-title="KPlus",K+Sport1 HD
-http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r_ps9LrSIg_LN4z7ebnzwkM/m3u8
+https://s71140.cdn.mytvnet.vn/drmlive_01.m3u8?c=vstv341&q=hd&deviceType=9&userId=1596463&deviceId=&type=tv&p=0&zn=netb2c&ctl=9.40&hc=ctl12&sl=6&drmsrv=ctl12.mytvnet.vn&naddr=123.29.71.140&pkg=pkg12.hni&profiles=hd,sd&&bhd=6000000&bsd=3000000&location=HNI&rbk=1721624152&pnode=172.16.222.10&isp=vnpt&rkey=1596463ThS0k3Ahl
 #EXTINF:-1 xui-id="4" tvg-id="ksport2hd" tvg-name="K+Sport2 HD" tvg-logo="http://xui.tivifree.ml:80/images/3a559afe96d03350677d50aa9c55ca15.jpg" group-title="KPlus",K+Sport2 HD
 http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-rw0VOWDNqQG4kavALwy6ANU/m3u8
 #EXTINF:-1 xui-id="5" tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="http://xui.tivifree.ml:80/images/a3bdf4c86c97b0c9d1f80e25d71e9fad.jpg" group-title="KPlus",K+ Kids
