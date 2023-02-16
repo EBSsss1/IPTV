@@ -2,54 +2,54 @@
 url-tvg="http://lichphatsong.xyz/schedule/vagroup_epg.xml"
 
 
-#------🍭| K+------
-#EXTINF:-1 tvg-id="klive1hd" group-title="🍭| K+" tvg-logo="https://i.ibb.co/NSWYzrm/klive1.png", K+LIVE 1
+#------🍭| MyK+------
+#EXTINF:-1 tvg-id="klive1hd" group-title="🍭| MYK+" tvg-logo="https://i.ibb.co/NSWYzrm/klive1.png", K+LIVE 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" } ], "type":"temporary" }
 https://vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/index.mpd?maxrate=3000000
 
-#EXTINF:-1 tvg-id="klive2hd" group-title="🍭| K+" tvg-logo="https://i.ibb.co/1XBNzSN/klive2.png", K+LIVE 2
+#EXTINF:-1 tvg-id="klive2hd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/1XBNzSN/klive2.png", K+LIVE 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dDne6KZ62B+Zto18e/p50g", "kid":"QXSdPAX5TOyqmN8rMVrTCQ" } ], "type":"temporary" }
 https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/index.mpd?maxrate=3000000
 
-#EXTINF:-1 tvg-id="klive3hd" group-title="🍭| K+" tvg-logo="https://i.ibb.co/RD6Zc50/klive3.png", K+LIVE 3
+#EXTINF:-1 tvg-id="klive3hd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/RD6Zc50/klive3.png", K+LIVE 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jhwqqk/xL0jngyEDMeCguQ", "kid":"jcHanGFdRuGVteyGkVB4hw" } ], "type":"temporary" }
 https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/index.mpd?maxrate=3000000
 
-#EXTINF:-1 tvg-id="Ksport1hd" group-title="🍭| K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD MyK
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD MyK
 #KODIPROP:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Na/qHhSubx548iC36Zn9Dg", "kid":"pRsulsmLQqKS5CgMPYovgg" },{ "kty":"oct", "k":"wA2xTCJbX5FY1uK1Cp/KjA", "kid":"sh9yx8mLQqKS5CgMPYovgg" },{ "kty":"oct", "k":"qyavDU0xUcqKHuoUGClDow", "kid":"nixy3xiLQqKS5CgMPYovgg" },{ "kty":"oct", "k":"OX8lp4MlMA6Vx5HvEkcFOg", "kid":"XdculsmLQqKS5CgMPYovgg" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
-#EXTINF:-1 tvg-id="Ksport2hd" group-title="🍭| K+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD MyK
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD MyK
 #KODIPROP:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Rqj61yPoavgFXlcViI3vlA", "kid":"3/v2bR0TQYaJNb6FHNSG4w" },{ "kty":"oct", "k":"7+qMjqQ5XLmsIvBAeU+E2w", "kid":"nqayJM4TQYaJNb6FHNSG4w" },{ "kty":"oct", "k":"91JWC5kbrSNiK7m5WQm20A", "kid":"5uqyJM4TQYaJNb6FHNSG4w" },{ "kty":"oct", "k":"hHS3uwPKKzUJ4vNE0SVg5Q", "kid":"8+72Vc4TQYaJNb6FHNSG4w" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 
-#EXTINF:-1 tvg-id="Kcinehd" group-title="🍭| K+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD MyK
+#EXTINF:-1 tvg-id="Kcinehd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD MyK
 #KODIPROP:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9idMVsBEWPX3z9cBXSPplA", "kid":"vZ64IDidSzeL5Xc4U8S9DQ" },{ "kty":"oct", "k":"eAa7HA2suYmEu70bsnPyGw", "kid":"BeK4IDidSzeL5Xc4U8S9DQ" },{ "kty":"oct", "k":"VPMyDXkLQ79LroTISebpHw", "kid":"Eub8UTidSzeL5Xc4U8S9DQ" },{ "kty":"oct", "k":"+lRYWNJXN+Rm8jayRxygGw", "kid":"/vP8aYedSzeL5Xc4U8S9DQ" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
-#EXTINF:-1 tvg-id="Klifehd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD MyK
+#EXTINF:-1 tvg-id="Klifehd" group-title="🍭| MyK+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD MyK
 #KODIPROP:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hQ2gJFWi2eCQkD/5z9P3UQ", "kid":"AhxM3cBYRVSrV6fUQ/CU9A" },{ "kty":"oct", "k":"YSe2UVa8MuRcIRgZkfMtqw", "kid":"SmBM3cBYRVSrV6fUQ/CU9A" },{ "kty":"oct", "k":"iAWt0O09rRXkBmVgBRJAUw", "kid":"V2SQDsBYRVSrV6fUQ/CU9A" },{ "kty":"oct", "k":"mbdIHecy6nMX0WL94b2LnQ", "kid":"Q3GQJg9YRVSrV6fUQ/CU9A" } ], "type":"temporary" }
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Kkidhd" group-title="🍭| K+" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+KID HD MyK
+#EXTINF:-1 tvg-id="Kkidhd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+KID HD MyK
 #KODIPROP:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -58,58 +58,58 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 
 
-#------🍭|<Mytv>------
+#------🍭| Mytv------
 
-#EXTINF:-1 tvg-id="Ksport1hd" group-title="🍭|<Mytv>" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 MyTV 
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="🍭| Mytv" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 MyTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eV90m7/umJnSBVDfbUV0Fg", "kid":"pldZ4QBKTnu2WasdoAKMeA" } ], "type":"temporary" }
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="Ksport2hd" group-title="🍭|<Mytv>" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 MyTV
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="🍭| Mytv" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 MyTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aGxJZNOGNL7KIhmoFWvYsA", "kid":"tDb77N2GTHC+6TU3J9P6Zw" } ], "type":"temporary" }
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="Kcinehd" group-title="🍭|<Mytv>" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE MyTV
+#EXTINF:-1 tvg-id="Kcinehd" group-title="🍭| Mytv" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fIzVbJIf6GC+F2syGmloOQ", "kid":"rHT6h1x/RfCGi4SDJVUXZQ" } ], "type":"temporary" }
 http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="Klifehd" group-title="🍭|<Mytv>" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE MyTV
+#EXTINF:-1 tvg-id="Klifehd" group-title="🍭| Mytv" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WkykZFUyaXCmD3+etZdjyA", "kid":"iMGTvc0yTNWrVl8edSo+ag" } ], "type":"temporary" }
 http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
-#------"🍭|<FPTPlay>"------
+#------"🍭| FPTPlay"------
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭|<FPTPlay>" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+ Sport1 FHD (FPTPlay)
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| FPTPlay " tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+ Sport1 FHD (FPTPlay)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Nbx5fDBRlW9yM5ylOAPRaw", "kid":"aKrt2n4bPSyBk8RZVIfXFg" } ], "type":"temporary" }
 http://vietanhtv.pw/fptplay/sp1/manifest.mpd
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭|<FPTPlay>" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport2 FHD (FPTPlay)
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| FPTPlay" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport2 FHD (FPTPlay)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SvlPnUyLVR7SkhxNo7NzxQ", "kid":"DhptJ1mNMc26fD10/jEVag" } ], "type":"temporary" }
 http://vietanhtv.pw/fptplay/sp2/manifest.mpd
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭|<FPTPlay>" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+ Cine FHD (FPTPlay)
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| FPTPlay" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+ Cine FHD (FPTPlay)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jwt5Mle9591yTYRbFKhLyg", "kid":"zBW5DIGyNgmWFKH0DqIINg" } ], "type":"temporary" }
 http://vietanhtv.pw/fptplay/cine/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭|<FPTPlay>" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+ Life (FPTPlay)
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| FPTPlay" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+ Life (FPTPlay)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v229B99difHRS4PMmjtwhw", "kid":"gSEyQDAQPLKOGfXKn1utqg" } ], "type":"temporary" }
 http://vietanhtv.pw/fptplay/life/manifest.mpd
 
-#EXTINF:-1 tvg-id="kkidshd"  group-title="🍭|<FPTPlay>" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+ Kids FHD (FPTPlay)
+#EXTINF:-1 tvg-id="kkidshd"  group-title="🍭| FPTPlay" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+ Kids FHD (FPTPlay)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MRr+P9nbE2pB18cF7TA/pQ", "kid":"2td5+/VDOIWgkU5gOZx23w" } ], "type":"temporary" }
