@@ -3,7 +3,7 @@ url-tvg="http://lichphatsong.xyz/schedule/vagroup_epg.xml"
 
 
 #------🍭| MyK+------
-#EXTINF:-1 tvg-id="klive1hd" group-title="🍭| MYK+" tvg-logo="https://i.ibb.co/NSWYzrm/klive1.png", K+LIVE 1
+#EXTINF:-1 tvg-id="klive1hd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/NSWYzrm/klive1.png", K+LIVE 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" } ], "type":"temporary" }
