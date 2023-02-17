@@ -85,32 +85,32 @@ http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Nbx5fDBRlW9yM5ylOAPRaw", "kid":"aKrt2n4bPSyBk8RZVIfXFg" } ], "type":"temporary" }
-http://vietanhtv.pw/fptplay/sp1/manifest.mpd
+http://vietanhtv.pw/k+fpt/sp1/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| FPTPlay" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport2 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SvlPnUyLVR7SkhxNo7NzxQ", "kid":"DhptJ1mNMc26fD10/jEVag" } ], "type":"temporary" }
-http://vietanhtv.pw/fptplay/sp2/manifest.mpd
+http://vietanhtv.pw/k+fpt/sp2/manifest.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| FPTPlay" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+ Cine FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jwt5Mle9591yTYRbFKhLyg", "kid":"zBW5DIGyNgmWFKH0DqIINg" } ], "type":"temporary" }
-http://vietanhtv.pw/fptplay/cine/manifest.mpd
+http://vietanhtv.pw/k+fpt/cine/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| FPTPlay" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+ Life
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v229B99difHRS4PMmjtwhw", "kid":"gSEyQDAQPLKOGfXKn1utqg" } ], "type":"temporary" }
-http://vietanhtv.pw/fptplay/life/manifest.mpd
+http://vietanhtv.pw/k+fpt/life/manifest.mpd
 
 #EXTINF:-1 tvg-id="kkidshd"  group-title="🍭| FPTPlay" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+ Kids FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MRr+P9nbE2pB18cF7TA/pQ", "kid":"2td5+/VDOIWgkU5gOZx23w" } ], "type":"temporary" }
-http://vietanhtv.pw/fptplay/kids/manifest.mpd
+http://vietanhtv.pw/k+fpt/kids/manifest.mpd
 
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5{ "keys":[ { "kty":"oct", "k":"FpmG47AkJJKeS+T8SnBeMg", "kid":"NEfSFVWLRXm+4UE6lt7RpA" } ], "type":"temporary" }r2"
