@@ -31,28 +31,28 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 #KODIPROP:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Rqj61yPoavgFXlcViI3vlA", "kid":"3/v2bR0TQYaJNb6FHNSG4w" },{ "kty":"oct", "k":"7+qMjqQ5XLmsIvBAeU+E2w", "kid":"nqayJM4TQYaJNb6FHNSG4w" },{ "kty":"oct", "k":"91JWC5kbrSNiK7m5WQm20A", "kid":"5uqyJM4TQYaJNb6FHNSG4w" },{ "kty":"oct", "k":"hHS3uwPKKzUJ4vNE0SVg5Q", "kid":"8+72Vc4TQYaJNb6FHNSG4w" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x6WO1bJSdVSh3AkTGf/DqA", "kid":"jaAurSLvQ7+VhVyOYOgMLw" },{ "kty":"oct", "k":"Qv+zGy043bd0sg71sbfYHg", "kid":"1eQurSLvQ7+VhVyOYOgMLw" },{ "kty":"oct", "k":"I1XTQ2KKbd8wc04ZcwHw1Q", "kid":"4uhy3iLvQ7+VhVyOYOgMLw" },{ "kty":"oct", "k":"rt7SjTDmlYj80r5vQl5SPw", "kid":"zvVy9nHvQ7+VhVyOYOgMLw" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 
 #EXTINF:-1 tvg-id="Kcinehd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD
 #KODIPROP:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9idMVsBEWPX3z9cBXSPplA", "kid":"vZ64IDidSzeL5Xc4U8S9DQ" },{ "kty":"oct", "k":"eAa7HA2suYmEu70bsnPyGw", "kid":"BeK4IDidSzeL5Xc4U8S9DQ" },{ "kty":"oct", "k":"VPMyDXkLQ79LroTISebpHw", "kid":"Eub8UTidSzeL5Xc4U8S9DQ" },{ "kty":"oct", "k":"+lRYWNJXN+Rm8jayRxygGw", "kid":"/vP8aYedSzeL5Xc4U8S9DQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2N5f00erR4Mezvq0//urQQ", "kid":"R5JOaES8T2OMrCKDbsanxA" },{ "kty":"oct", "k":"YiAH3Q69x5iruk7QCpydJw", "kid":"j9ZOaES8T2OMrCKDbsanxA" },{ "kty":"oct", "k":"aKskERFjx1Mf3v9FItPAtg", "kid":"nNqSmUS8T2OMrCKDbsanxA" },{ "kty":"oct", "k":"vezflSOsmyquYNInjm1X8w", "kid":"iOeSsZO8T2OMrCKDbsanxA" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 #EXTINF:-1 tvg-id="Klifehd" group-title="🍭| MyK+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD
 #KODIPROP:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hQ2gJFWi2eCQkD/5z9P3UQ", "kid":"AhxM3cBYRVSrV6fUQ/CU9A" },{ "kty":"oct", "k":"YSe2UVa8MuRcIRgZkfMtqw", "kid":"SmBM3cBYRVSrV6fUQ/CU9A" },{ "kty":"oct", "k":"iAWt0O09rRXkBmVgBRJAUw", "kid":"V2SQDsBYRVSrV6fUQ/CU9A" },{ "kty":"oct", "k":"mbdIHecy6nMX0WL94b2LnQ", "kid":"Q3GQJg9YRVSrV6fUQ/CU9A" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8B/Edo2gAQ8/yPCNHJESvw", "kid":"KVUGKUrqRmeK5elWR8KsGg" },{ "kty":"oct", "k":"Luk5hW/o2zfAWvFF4ilXEg", "kid":"cZkGKUrqRmeK5elWR8KsGg" },{ "kty":"oct", "k":"QzrJVNUfD2nUl6rkfSe7fA", "kid":"fp1KWkrqRmeK5elWR8KsGg" },{ "kty":"oct", "k":"Tm4vvaFgM/z4LR0O1+GUvQ", "kid":"aqpKcpnqRmeK5elWR8KsGg" } ], "type":"temporary" }
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="Kkidhd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+KID HD
 #KODIPROP:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CnHYp+arWjOEX31K51A3iQ", "kid":"5W/K0I0cQUelKGoloBC8xw" },{ "kty":"oct", "k":"tnrJsA4E/9CzZwjlS3fIMw", "kid":"LbPK0I0cQUelKGoloBC8xw" },{ "kty":"oct", "k":"3V9HOExyeqcniJCqZxAW1A", "kid":"OrcOAY0cQUelKGoloBC8xw" },{ "kty":"oct", "k":"x/unU2bCrVrhz3JcFOFNSw", "kid":"JsQOGdwcQUelKGoloBC8xw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+OfSnBEAsm1EoOBM68jwfQ", "kid":"wpejwx9oSIijD9jjcf2i9g" },{ "kty":"oct", "k":"+zjm7EUsBX4G7bEVYgtE4Q", "kid":"Ctujwx9oSIijD9jjcf2i9g" },{ "kty":"oct", "k":"UDhaThHXe5MQEMUC0Ho5Dw", "kid":"F9/n9B9oSIijD9jjcf2i9g" },{ "kty":"oct", "k":"xt5BbPpPASJwE8XiBLoS8g", "kid":"A+znDG5oSIijD9jjcf2i9g" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 #------🍭| Mytv------
