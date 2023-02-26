@@ -84,7 +84,7 @@ http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| FPTPlay " tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+ Sport1 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sSTSAqpjtaPTqxNiwjpazA", "kid":"2G+GEUNnPLuAqiwlQr2igw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Nbx5fDBRlW9yM5ylOAPRaw", "kid":"aKrt2n4bPSyBk8RZVIfXFg" } ], "type":"temporary" }
 http://vietanhtv.pw/k+fpt/sp1/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| FPTPlay" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport2 FHD
@@ -115,12 +115,12 @@ http://vietanhtv.pw/k+fpt/kids/manifest.mpd
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5{ "keys":[ { "kty":"oct", "k":"FpmG47AkJJKeS+T8SnBeMg", "kid":"NEfSFVWLRXm+4UE6lt7RpA" } ], "type":"temporary" }r2"
 #EXTINF:-1 xui-id="1" tvg-id="kcinehd" tvg-name="K+Cine HD" tvg-logo="http://xui.tivifree.ml:80/images/e78f265ca39267140bd1f597a7e8ba2c.jpg" group-title="KPlus",K+Cine HD
-http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r9FFxHYlepbWy7K0C050yos/m3u8
+#http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r9FFxHYlepbWy7K0C050yos/m3u8
 #EXTINF:-1 xui-id="2" tvg-id="klifehd" tvg-name="K+Life HD" tvg-logo="http://xui.tivifree.ml:80/images/69aa85408e964ef6fb0626b3d8e697a2.jpg" group-title="KPlus",K+Life HD
-http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r4iwK3IwSaraQwtjSTvKzOc/m3u8
+#http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r4iwK3IwSaraQwtjSTvKzOc/m3u8
 #EXTINF:-1 xui-id="3" tvg-id="ksport1hd" tvg-name="K+Sport1 HD" tvg-logo="http://xui.tivifree.ml:80/images/39797534cb5685a5e1c78243c95d70f5.jpg" group-title="KPlus",K+Sport1 HD
-http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r_ps9LrSIg_LN4z7ebnzwkM/m3u8
+#http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r_ps9LrSIg_LN4z7ebnzwkM/m3u8
 #EXTINF:-1 xui-id="4" tvg-id="ksport2hd" tvg-name="K+Sport2 HD" tvg-logo="http://xui.tivifree.ml:80/images/3a559afe96d03350677d50aa9c55ca15.jpg" group-title="KPlus",K+Sport2 HD
-http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-rw0VOWDNqQG4kavALwy6ANU/m3u8
+#http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-rw0VOWDNqQG4kavALwy6ANU/m3u8
 #EXTINF:-1 xui-id="5" tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="http://xui.tivifree.ml:80/images/a3bdf4c86c97b0c9d1f80e25d71e9fad.jpg" group-title="KPlus",K+ Kids
-http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r5WwxxPbcOAQK7cz_IlVJig/m3u8
+#http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r5WwxxPbcOAQK7cz_IlVJig/m3u8
