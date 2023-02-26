@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml"
-url-tvg="http://lichphatsong.xyz/schedule/vagroup_epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
 #------🍭| MyK+------
 #EXTINF:-1 tvg-id="klive1hd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/NSWYzrm/klive1.png", K+LIVE 1
