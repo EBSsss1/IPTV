@@ -83,7 +83,7 @@ http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| FPTPlay " tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+ Sport1 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Nbx5fDBRlW9yM5ylOAPRaw", "kid":"aKrt2n4bPSyBk8RZVIfXFg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v/T2vESrXnlBwUj/K00wYw", "kid":"UAA8LRrCNrGzsvTYnCpYiA" } ], "type":"temporary" }
 http://vietanhtv.pw/k+fpt/sp1/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| FPTPlay" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport2 FHD
