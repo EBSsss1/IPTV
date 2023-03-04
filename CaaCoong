@@ -23,33 +23,33 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/index.mpd?maxrate=3000
 #KODIPROP:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wj2qE21/4NYsALUuGROU7Q", "kid":"PhdiDgIKTEisfZzfqpaMWg" },{ "kty":"oct", "k":"84Qye+8YlhUSRig/jgbwFQ", "kid":"9tNiDgIKTEisfZzfqpaMWg" },{ "kty":"oct", "k":"TVHQjUKPC9inyVU0gUqbRw", "kid":"SxumPwIKTEisfZzfqpaMWg" },{ "kty":"oct", "k":"KHBpWVPpuaPU/lXtuc/S0A", "kid":"NyimV1EKTEisfZzfqpaMWg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7dfQ+erBFkUKJpILlppbLg", "kid":"YWJ3MInESNOGdm8VSteQWg" },{ "kty":"oct", "k":"K/nSBz/SmUD7kCZOpQw0rw", "kid":"GR53MInESNOGdm8VSteQWg" },{ "kty":"oct", "k":"ka0CqhAvQnw+X/W/MmujFQ", "kid":"bma7YYnESNOGdm8VSteQWg" },{ "kty":"oct", "k":"q7isub5Enj7St8uU9P7tLg", "kid":"WnO7edjESNOGdm8VSteQWg" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD
 #KODIPROP:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eNnUc3jV5Q3vh46t+j3Q1A", "kid":"8D0BsdyMQ6iPXtuwrI4qbA" },{ "kty":"oct", "k":"aQqLcDbXEtgkZiv1Uuswjg", "kid":"qPkBsdyMQ6iPXtuwrI4qbA" },{ "kty":"oct", "k":"xEPs+FDJDxe9AR+GHkOn3w", "kid":"/UFF4tyMQ6iPXtuwrI4qbA" },{ "kty":"oct", "k":"QA25Q/+1iXTL0FpDp+i7pw", "kid":"6U5F+iuMQ6iPXtuwrI4qbA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i1DhZodx1qmFxz+GaYYu5Q", "kid":"ukY+T7i7SNWBq0fI56DjBg" },{ "kty":"oct", "k":"reoL79Dci13AxECy55iTMA", "kid":"cgI+T7i7SNWBq0fI56DjBg" },{ "kty":"oct", "k":"dIBIvT3hpd9tWXzLrXkdTw", "kid":"x0qCgLi7SNWBq0fI56DjBg" },{ "kty":"oct", "k":"5+zJ8qcxhSXLKm2H5roNeA", "kid":"s1eCmAe7SNWBq0fI56DjBg" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 
 #EXTINF:-1 tvg-id="Kcinehd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD
 #KODIPROP:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1P4qcRMebC6xD+gFcvOQhg", "kid":"VWxcorNYSpSWfRDExCLRkw" },{ "kty":"oct", "k":"2j33096JCwhHA1N3S5y6Hw", "kid":"DShcorNYSpSWfRDExCLRkw" },{ "kty":"oct", "k":"Wc9PMbFynlX2WHBiDkYxaw", "kid":"YnCg07NYSpSWfRDExCLRkw" },{ "kty":"oct", "k":"uA842vs348ceGm/VeUbRRA", "kid":"Tn2g6wJYSpSWfRDExCLRkw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1I6GBwfcbfbMZax0rw8GWw", "kid":"6h6Y/SHzSbmQY6nO0d96bw" },{ "kty":"oct", "k":"EDyq+GV+KAyuJv/idp6wrg", "kid":"otqY/SHzSbmQY6nO0d96bw" },{ "kty":"oct", "k":"xTzOQT4tmjqkxUN2wRmCyA", "kid":"9yLcLiHzSbmQY6nO0d96bw" },{ "kty":"oct", "k":"JRUCLx5WlmMt72z+uEq7hg", "kid":"4y/cRnDzSbmQY6nO0d96bw" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 #EXTINF:-1 tvg-id="Klifehd" group-title="🍭| MyK+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD
 #KODIPROP:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"whs2WUT1dy1IUqC9AUyE4g", "kid":"90UjpbJGTKedrNXTyFTR2Q" },{ "kty":"oct", "k":"vA8skc5TSCEodnoAcNlxUA", "kid":"rwEjpbJGTKedrNXTyFTR2Q" },{ "kty":"oct", "k":"N5DzlXEbegVIPlfupLePjQ", "kid":"BEln1rJGTKedrNXTyFTR2Q" },{ "kty":"oct", "k":"YxpWoG+L6Lb9fU2HVpdIvA", "kid":"8FZn7gFGTKedrNXTyFTR2Q" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LFaHP6GKHmRjZIBUIM8P/w", "kid":"Q5KQe+tDSTe6V7U8XbAs+A" },{ "kty":"oct", "k":"1L3ak1UPbDn/xWHVgKulLg", "kid":"+06Qe+tDSTe6V7U8XbAs+A" },{ "kty":"oct", "k":"5JIEA4uYWI001JIEaJox/Q", "kid":"UJbUrOtDSTe6V7U8XbAs+A" },{ "kty":"oct", "k":"xebYfSRXD+/kbkS/WR3PtA", "kid":"PKPUxDpDSTe6V7U8XbAs+A" } ], "type":"temporary" }
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="Kkidhd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+KID HD
 #KODIPROP:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uQAzqDevCv1uv2/ZlN3QkA", "kid":"/VB4sxyjQdeGaMFyYJjcXg" },{ "kty":"oct", "k":"xbjL8j424fhxzjfzLElicQ", "kid":"tQx4sxyjQdeGaMFyYJjcXg" },{ "kty":"oct", "k":"vNCwjnZsAatYINiBOVpFZQ", "kid":"ClS85ByjQdeGaMFyYJjcXg" },{ "kty":"oct", "k":"rmcULwJu6k+qflQVQAiriA", "kid":"9mG8/GujQdeGaMFyYJjcXg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QVITuXna9YsPg8aBckD9xw", "kid":"sFnpY/YeSAufK8+RN/JfTw" },{ "kty":"oct", "k":"RJsQ2jArTEzXmM5vAIoiag", "kid":"aBXpY/YeSAufK8+RN/JfTw" },{ "kty":"oct", "k":"BH9Ot3bjzErqBOy0SBBDaQ", "kid":"vV0tlPYeSAufK8+RN/JfTw" },{ "kty":"oct", "k":"X0kVeG2lJyQuIWcRdVDLng", "kid":"qWotrEUeSAufK8+RN/JfTw" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
