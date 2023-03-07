@@ -67,19 +67,19 @@ https://hni-vnpt-001-livecdn-vthn-vnd.vieon.vn/9acc5f9133f63385079d4bb135a6ab41/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C1m6hYwbfPIkTFdtonsYsgg", "kid":"PGQuhgq+PfqKyJscA93BvqA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-002-livecdn-vthn-vnd.vieon.vn/e4a93b562484dcce0bd1a4a2fa0dc1ab/1678245668819/wz/livetv_origin_drm/kplus_phongcach_22_08_2021_web.smil/chunklist_b1792000_slvie_t64NzIwcA==.m3u8
+https://hni-vnpt-001-livecdn-vthn-vnd.vieon.vn/9acc5f9133f63385079d4bb135a6ab41/1678273119666/wz/kplus_phongcach_22_08_2021_web.smil/chunklist_b1792000_slvie_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="đŸ­| VieOn" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MUhMjNRWi7thsEBq8D5kfXw", "kid":"LBiIAkpIOski5i0jME/+znA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hni-vnpt-001-livecdn-vthn-vnd.vieon.vn/6311a01b63ea382e2c3b8dad9d9cf546/1678245583451/wz/livetv_origin_drm/kplus_1_22_08_2021_web.smil/chunklist_b1792000_slvie_t64NzIwcA==.m3u8
+https://hni-vnpt-001-livecdn-vthn-vnd.vieon.vn/9acc5f9133f63385079d4bb135a6ab41/1678273119666/wz/livetv_origin_drm/kplus_1_22_08_2021_web.smil/chunklist_b1792000_slvie_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-id="klifehd" group-title="đŸ­| VieOn" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iWFGjPZD4yqsU9SR4AW5SVQ", "kid":"ogbfUs5DaMZ+fM7ofpIpEhg" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hni-vnpt-002-livecdn-vthn-vnd.vieon.vn/65e9c9dbbdd5a0d51771b556d53beedf/1678273292369/wz/livetv_origin_drm_sigmadrm/kplus_nhipsong_22_08_2021_sigmadrm_web.smil/manifest.m3u8
+https://hni-vnpt-001-livecdn-vthn-vnd.vieon.vn/9acc5f9133f63385079d4bb135a6ab41/1678273119666/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest_2.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="đŸ­| VieOn" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp, K+KIDS HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
