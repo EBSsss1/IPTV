@@ -61,7 +61,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vz3g6rR3sY5W4RUjWN75Zgg", "kid":"AJwgucFiNFCwPW9Xjsn6RMA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/9acc5f9133f63385079d4bb135a6ab41/1678273119666/wz/livetv_origin_drm_sigmadrm/kplus_sport_1_22_08_2021_sigmadrm_web.smil/chunklist_b1792000_slvie_t64NzIwcA==.m3u8
+https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/9acc5f9133f63385079d4bb135a6ab41/1678273119666/wz/livetv_origin_drm_sigmadrm/kplus_sport_1_22_08_2021_sigmadrm_web.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="đŸ­| VieOn" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
