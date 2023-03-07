@@ -80,7 +80,6 @@ https://hni-vnpt-001-livecdn-vthn-vnd.vieon.vn/6311a01b63ea382e2c3b8dad9d9cf546/
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iWFGjPZD4yqsU9SR4AW5SVQ", "kid":"ogbfUs5DaMZ+fM7ofpIpEhg" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hni-vnpt-002-livecdn-vthn-vnd.vieon.vn/65e9c9dbbdd5a0d51771b556d53beedf/1678273292369/wz/livetv_origin_drm_sigmadrm/kplus_nhipsong_22_08_2021_sigmadrm_web.smil/manifest.m3u8
-
 #EXTINF:-1 tvg-id="kkidshd" group-title="đŸ­| VieOn" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp, K+KIDS HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey   
