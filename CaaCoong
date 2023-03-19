@@ -90,6 +90,7 @@ https://live-drm.fptplay.net/drmlive/k1lifefpl_720p.stream/manifest.mpd?token=ey
 https://live-drm.fptplay.net/drmlive/k1kidsfpl_720p.stream/manifest.mpd?token=eyJ1c2VyX2lkIjogMjc0MDc1NTAsICJjaGFubmVsX3VybCI6ICJrMWtpZHNmcGxfNzIwcC5zdHJlYW0iLCAiaXNwIjogInZucHQiLCAidGltZXN0YW1wIjogMTY3OTA2Mzg1MSwgImhhc2hfc2VjcmV0IjogIjYxN2U1ZTA3YzJhYTFlY2JiYWQ4NWE5OGI3NDFjZDA5IiwgInJtaXAiOiAiMjIyLjI1NC43NS4yNiJ9
 
 #------SPORTS-FPTPlay-----
+
 #EXTINF:-1 tvg-id="Sport-FPTPlay" group-title="Sport-FPTPlay" tvg-logo="https://i.ibb.co/MMjxtnT/fptplay.png", FPTPlay (MPD1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q5EX/sLNA+oxWZTJJsScvQ", "kid":"4jTx66f9M66ZLJ1o3XjA5w" } ], "type":"temporary" }
