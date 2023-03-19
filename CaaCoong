@@ -89,4 +89,17 @@ https://live-drm.fptplay.net/drmlive/k1lifefpl_720p.stream/manifest.mpd?token=ey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KuNYGeVwlcxZSs5prgyicw", "kid":"d+PBrH5qPGmIVnKybFQTeQ" } ], "type":"temporary" }
 https://live-drm.fptplay.net/drmlive/k1kidsfpl_720p.stream/manifest.mpd?token=eyJ1c2VyX2lkIjogMjc0MDc1NTAsICJjaGFubmVsX3VybCI6ICJrMWtpZHNmcGxfNzIwcC5zdHJlYW0iLCAiaXNwIjogInZucHQiLCAidGltZXN0YW1wIjogMTY3OTA2Mzg1MSwgImhhc2hfc2VjcmV0IjogIjYxN2U1ZTA3YzJhYTFlY2JiYWQ4NWE5OGI3NDFjZDA5IiwgInJtaXAiOiAiMjIyLjI1NC43NS4yNiJ9
 
+#------SPORTS-FPTPlay-----
+#EXTINF:-1 tvg-id="Sport-FPTPlay" group-title="Sport-FPTPlay" tvg-logo="https://i.ibb.co/MMjxtnT/fptplay.png", FPTPlay (MPD1)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v3XnBAYhF1bNr4eu/v9WKA", "kid":"wo5lhfHuNk+jDDQqDyEqlA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
+#EXTINF:-1 tvg-id="Sport-FPTPlay" group-title="Sport-FPTPlay" tvg-logo="https://i.ibb.co/MMjxtnT/fptplay.png", FPTPlay (MPD2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"21NSK4PlHicwNX+0Cy2QwQ", "kid":"LD6FHo+9OOqK0ZXvcoUOAw" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live-drm.fptplay.net/fnxdrmsport/thethao39_4000.stream/manifest.mpd?token=eyJ1c2VyX2lkIjogMjc0MDc1NTAsICJjaGFubmVsX3VybCI6ICJ0aGV0aGFvMzlfNDAwMC5zdHJlYW0iLCAiaXNwIjogInZucHQiLCAidGltZXN0YW1wIjogMTY3OTIzNDg2NiwgImhhc2hfc2VjcmV0IjogImEzNzM1NDM2NDA1OTRmNTBkYTBiN2NiNjY4MjkzOGZjIiwgInJtaXAiOiAiMTQuMTkwLjE4OS44MCJ9
+
+#EXTINF:-1 tvg-id="Sport-FPTPlay2" group-title="Sport-FPTPlay" tvg-logo="https://i.ibb.co/MMjxtnT/fptplay.png", FPTPlay2
+https://livecdn.fptplay.net/hda1/f-channel1_4000.stream/chunklist.m3u8
