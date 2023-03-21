@@ -4,8 +4,8 @@
 #EXTINF:-1 tvg-id="klive1hd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/NSWYzrm/klive1.png", K+LIVE 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/index.mpd?maxrate=3000000
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YF04zJYXLEK2/9Jn8Gw1yQ", "kid":"OLk8goG7Qr2yHCiLVUR26w" } ], "type":"temporary" }
+http://live-akm4.tv360.vn/manifest/K_PLUS_PC/master.mpd?hdnts=exp=1679404271~acl=/*~hmac=9046222eee2c9a147795ca1f37278f680cdb9ecfacdd7494cbc7f9beb0f40854&manifestfilter=video_bitrate:1-3600000&uid=16352080
 
 #EXTINF:-1 tvg-id="klive2hd" group-title="🍭| MyK+" tvg-logo="https://i.ibb.co/1XBNzSN/klive2.png", K+LIVE 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
