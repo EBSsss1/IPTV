@@ -89,3 +89,39 @@ https://live-drm.fptplay.net/drmlive/k1lifefpl_720p.stream/manifest.mpd?token=ey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KuNYGeVwlcxZSs5prgyicw", "kid":"d+PBrH5qPGmIVnKybFQTeQ" } ], "type":"temporary" }
 https://live-drm.fptplay.net/drmlive/k1kidsfpl_720p.stream/manifest.mpd?token=eyJ1c2VyX2lkIjogMjc0MDc1NTAsICJjaGFubmVsX3VybCI6ICJrMWtpZHNmcGxfNzIwcC5zdHJlYW0iLCAiaXNwIjogInZucHQiLCAidGltZXN0YW1wIjogMTY3OTA2Mzg1MSwgImhhc2hfc2VjcmV0IjogIjYxN2U1ZTA3YzJhYTFlY2JiYWQ4NWE5OGI3NDFjZDA5IiwgInJtaXAiOiAiMjIyLjI1NC43NS4yNiJ9
+
+#-----VTVcab-Thể Thao-----
+#EXTINF:-1 tvg-id="ON Sports+" group-title="VTVcab-Thể Thao" tvg-logo="http://bsfr.ddns.net/logo/OnSports+.png", ON Sports+(MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"acaWHwzwTdSKhztLZVJwmQ", "kid":"WW7GG7TYRZm/KvracOtaMg" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live1onsport.vtvcab.vn/ondrm/HAY_TV/manifest.mpd
+
+#EXTINF:-1 tvg-id="Bóng Đá Việt" group-title="VTVcab-Thể Thao" tvg-logo="http://bsfr.ddns.net/logo/BDV.png", Bóng Đá Việt(MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tZWlvuY3SWa8Rc1x8N7Z6w", "kid":"N4pO4dBJSEGOby6ChpPy4w" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live1onsport.vtvcab.vn/ondrm/ONVFFTV/manifest.mpd
+
+#EXTINF:-1 tvg-id="Thể Thao Việt" group-title="VTVcab-Thể Thao" tvg-logo="http://bsfr.ddns.net/logo/TTV.png", Thể Thao Việt(MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"42iRHDsBSVKMhox1zznEqg", "kid":"dhotN0BSREOWWUKwyXKikg" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live1onsport.vtvcab.vn/ondrm/ONVOLLEYBALL/manifest.mpd
+
+#EXTINF:-1 tvg-id="ONFootball HD" group-title="VTVcab-Thể Thao" tvg-logo="http://bsfr.ddns.net/logo/onfb.png", ONFootball HD(MPD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xhvAMHSrQOGfxs4LX0fQ1A", "kid":"Bkbsjx6LTg6RyqRX3lo93g" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live2onsport.vtvcab.vn/ondrm/BONGDA_HD/manifest.mpd
+
+#EXTINF:-1 tvg-id="ON Sports HD" group-title="VTVcab-Thể Thao" tvg-logo="http://bsfr.ddns.net/logo/SPHD.png", ON Sports HD(MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GGRgWx55STGDE6unv/07fw", "kid":"bLnNZ8znT56yKEjap89Kjw" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live1onsport.vtvcab.vn/ondrm/THETHAO_HD/manifest.mpd
